@@ -15,10 +15,10 @@ install.packages(c("base64enc", "KoNLP", "NIADic", "RmecabKo", "rtweet", "tidyve
 useNIADic()
 
 
-api_key <- "RM3GYv6EsWW7kYKUWUSzPqUHL"
-api_secret_key <- "5rLXiX5p3NkJoy6phjRjueiL2fKpbtyWNuOcNuK74R1IwPuf6g"
-access_token <- "1432465183734001666-jAX5BvhNKOfPuwjTrVMgo6yRV3QlmK"
-access_token_secret <- "MohR7UWGStzYjxoij7BcPaOJtVK7epE7SuKBAMafCU8Ul"
+api_key <- "ㅇ"
+api_secret_key <- "ㅁ"
+access_token <- "ㅁ-ㅁ"
+access_token_secret <- "ㅁ"
 options(httr_oauth_cache = TRUE)
 setup_twitter_oauth(api_key,api_secret_key,access_token,access_token_secret)
 
