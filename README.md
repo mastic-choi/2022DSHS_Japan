@@ -7,3 +7,7 @@
 R, Python(Jupyter Notebook), UCinet
 
 # 간단 설명
+
+R언어로 트위터 API에 접속, 관련 키워드 Tweets 크롤링을 진행.
+Python의 Konlpy(Okt)를 통해 자연어 처리를 진행함. 
+Textom 서비스를 사용해 TF기반 의미 연결망을 구성함.
